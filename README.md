@@ -166,8 +166,8 @@ The PPO agent demonstrated:
 ##  Author
 
 **Prem Raga**
-B.Tech CSE — RV Institute of Technology & Management
-B.Sc — IIT Madras (Expected 2027)
+* B.Tech CSE — RV Institute of Technology & Management
+* B.Sc — IIT Madras (Expected 2027)
 
 ---
 
